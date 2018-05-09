@@ -9,6 +9,7 @@ This app includes following learning components :
 4. Creating a list based on that data and displaying it to the user.
 
 This app contains single layout with list of books using EditText and Search Button.
+
 ![screenshot 83](https://user-images.githubusercontent.com/25173010/39834175-c7a3ae0a-53e9-11e8-928b-bafde37d5c23.png)
 
 Displays Result for proper search keywords, example :
